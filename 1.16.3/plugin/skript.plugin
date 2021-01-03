@@ -1,0 +1,8 @@
+PLUGIN_NAME: Skript
+PLUGIN_VERSION: 2.5.3
+DOWNLOAD_LINK: https://github.com/SkriptLang/Skript/releases/download/2.5.3/Skript.jar
+MAGMA_VERSION_LIST:
+  - 1.16.4-35.0.18-7df0ab4
+  
+ Tested environments:
+ - Intel Xeon ??? and 3bg of RAM allocated to the server (I don't really know my host use.)
